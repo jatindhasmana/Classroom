@@ -1,1 +1,0 @@
-Resume Template using Html & CSS
